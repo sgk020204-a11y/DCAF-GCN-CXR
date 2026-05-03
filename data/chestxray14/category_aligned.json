@@ -1,0 +1,16 @@
+{
+    "atelectasis": 0,
+    "cardiomegaly": 1,
+    "effusion": 2,
+    "infiltration": 3,
+    "mass": 4,
+    "nodule": 5,
+    "pneumonia": 6,
+    "pneumothorax": 7,
+    "consolidation": 8,
+    "edema": 9,
+    "emphysema": 10,
+    "fibrosis": 11,
+    "pleural_thickening": 12,
+    "hernia": 13
+}
